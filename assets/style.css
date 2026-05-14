@@ -61,3 +61,10 @@ ul.tags-list {
 ul.post-list{
     list-style: none;
 }
+
+article img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1rem auto;
+}
